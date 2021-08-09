@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Miguel Marques'
 theme = 'toha'
 
-background = "images/background.jpeg"
+background = 'assets/images/background.jpeg'
 
 
 [languages.en]
