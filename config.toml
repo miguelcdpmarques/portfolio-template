@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Miguel Marques'
 theme = 'toha'
 
-background = 'assets/images/background.jpeg'
+# background = 'assets/images/background.jpeg'
 
 
 [languages.en]
@@ -19,8 +19,8 @@ ordered = false
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
-gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
-gitBranch = "main"
+gitRepo = "https://github.com/miguelcdpmarques/portfolio-template"
+gitBranch = "master"
 enableBlogPost = true
 enableTOC = true
 
