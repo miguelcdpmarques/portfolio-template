@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Miguel Marques'
 theme = 'toha'
 
+background = "images/background.jpeg"
+
+
 [languages.en]
 languageName = "English"
 weight = 1
